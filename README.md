@@ -15,13 +15,7 @@
 
 ### 安装
 
-在 WorkBuddy 中执行：
-
-```bash
-/plugin marketplace add simonxiong/ip-discovery
-```
-
-> 将 `simonxiong` 替换为实际的 GitHub 用户名
+在 WorkBuddy中的技能市场中搜索“Ip-Discovery”，点击安装即可~
 
 ### 使用
 
