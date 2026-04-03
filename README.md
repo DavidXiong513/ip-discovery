@@ -15,7 +15,7 @@
 
 ### 安装
 
-方法1：在 WorkBuddy中的“技能”界面中搜索“selfip-discovery”，即可看到“个人IP定位教练”
+方法1：在 WorkBuddy中的“技能”界面中搜索“selfip-discovery”或“个人IP”等关键字，即可看到“个人IP定位教练”
 <img width="1176" height="462" alt="56aec42efa8d4d51cda86f435bffc687" src="https://github.com/user-attachments/assets/21585ed1-4652-48e9-9707-b3f0ee245bd4" />
 
 方法2：在 WorkBuddy中的“技能”界面中找到“套件”下方的“+”，点击“+”按钮后会弹出【添加市场】
