@@ -1,4 +1,4 @@
-# 🧭 IP Discovery — 个人IP定位发现助手
+<img width="853" height="757" alt="a919c8311b194b04646366e2a8744657" src="https://github.com/user-attachments/assets/1c95803f-7cc3-4745-8043-fbad34f23cdb" /><img width="853" height="757" alt="a919c8311b194b04646366e2a8744657" src="https://github.com/user-attachments/assets/1d928cc6-41c9-4223-b3aa-58856ad4b07e" /># 🧭 IP Discovery — 个人IP定位发现助手
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -15,7 +15,9 @@
 
 ### 安装
 
-在 WorkBuddy中的技能市场中搜索“Ip-Discovery”，点击安装即可~
+在 WorkBuddy中的“技能”界面中找到“套件”下方的“+”，点击“+”按钮后会弹出【添加市场】
+随后在市场源的空档栏填入：https://github.com/DavidXiong513/ip-discovery
+点击“提交”即可安装成功~
 
 ### 使用
 
