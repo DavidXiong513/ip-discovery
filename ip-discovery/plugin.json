@@ -1,0 +1,51 @@
+{
+  "name": "ip-discovery",
+  "version": "1.0.0",
+  "description": "通过六维度结构化访谈帮用户发现并定义个人IP定位，含内容策略和受众分析",
+  "author": "思考熊 (借假修真)",
+  "license": "MIT",
+  "repository": "https://github.com/your-username/ip-discovery",
+  "keywords": [
+    "个人品牌",
+    "IP定位",
+    "自媒体",
+    "个人IP",
+    "内容策略",
+    "受众分析",
+    "自我认知"
+  ],
+  "commands": [
+    {
+      "name": "ip-discovery",
+      "description": "启动完整的个人IP定位发现流程（3-5轮对话）",
+      "path": ".codebuddy/commands/ip-discovery.md"
+    },
+    {
+      "name": "ip-quick",
+      "description": "快速IP定位评估（1轮对话，输出简化画像）",
+      "path": ".codebuddy/commands/ip-quick.md"
+    },
+    {
+      "name": "content-plan",
+      "description": "基于已有IP定位生成30天内容策略和选题日历",
+      "path": ".codebuddy/commands/content-plan.md"
+    }
+  ],
+  "skills": [
+    {
+      "name": "ip-discovery",
+      "description": "核心IP定位发现技能 - 六维度结构化访谈",
+      "path": ".codebuddy/skills/ip-discovery"
+    },
+    {
+      "name": "content-strategy",
+      "description": "基于IP定位生成内容策略和选题规划",
+      "path": ".codebuddy/skills/content-strategy"
+    },
+    {
+      "name": "audience-analysis",
+      "description": "目标受众分析和画像构建",
+      "path": ".codebuddy/skills/audience-analysis"
+    }
+  ]
+}
