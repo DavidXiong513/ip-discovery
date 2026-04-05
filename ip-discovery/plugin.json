@@ -1,7 +1,7 @@
 {
   "name": "ip-discovery",
-  "version": "1.0.0",
-  "description": "通过六维度结构化访谈帮用户发现并定义个人IP定位，含内容策略和受众分析",
+  "version": "2.0.0",
+  "description": "通过六维度深度访谈帮用户发现并定义个人IP定位 V2 — 含专业咨询工具箱、实时维度仪表盘、五级递进交付物、HTML可视化报告、竞品对标分析",
   "author": "思考熊 (借假修真)",
   "license": "MIT",
   "repository": "https://github.com/your-username/ip-discovery",
@@ -17,7 +17,7 @@
   "commands": [
     {
       "name": "ip-discovery",
-      "description": "启动完整的个人IP定位发现流程（3-5轮对话）",
+      "description": "启动完整IP定位流程V2（4-6轮深度访谈+实时仪表盘+可视化报告）",
       "path": ".codebuddy/commands/ip-discovery.md"
     },
     {
@@ -34,7 +34,7 @@
   "skills": [
     {
       "name": "ip-discovery",
-      "description": "核心IP定位发现技能 - 六维度结构化访谈",
+      "description": "核心IP定位发现技能 V2 - 六维度深度访谈+咨询工具箱+五级交付物+可视化报告",
       "path": ".codebuddy/skills/ip-discovery"
     },
     {
